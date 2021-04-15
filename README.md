@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello 👋 This is Aabir!
 
 <!--
 **aabir13/aabir13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#About Me
+I am currently pursuing my B.Tech in Computer Science. My primary field of interest is Artificial Intelligence and Applied Mathematics. 
 
 Here are some ideas to get you started:
 
