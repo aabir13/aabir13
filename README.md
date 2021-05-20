@@ -89,12 +89,7 @@
 
 </details>
 
-<details>
-  
-
-  <img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
-
-</details>
+<img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
 
 [website]: https://github.com/aabir13
 [twitter]: https://twitter.com/aabir_13
