@@ -88,6 +88,7 @@
 <!--END_SECTION:activity-->
 
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13)](https://github.com/aabir13/github-readme-stats)
 
 <img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
 
