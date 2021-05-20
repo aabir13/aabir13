@@ -1,7 +1,7 @@
 ### Hi there, I'm Aabir 👋
 
 [![Website](https://img.shields.io/website?label=Aabir.13&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/aabir13)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aabir_13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faabir13&screen_name=aabir13)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aabir_13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faabir13&screen_name=aabir_13)
 
 ## I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher!
 
