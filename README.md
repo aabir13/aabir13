@@ -11,10 +11,6 @@
 - 🥅 A keen worker and loves perfection
 - ⚡ "We don't want to tell our dreams. We want to show them!"
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aabir's Spotify Playing" width="350" />](https://open.spotify.com/user/na41ukyfwlng0oftubf3359g6)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
