@@ -10,10 +10,6 @@
 - 👯 I’m looking forward to become a Software Developer integrating Mathematics for higher efficiency and precision
 - 🥅 A keen worker and loves perfection
 - ⚡ "We don't want to tell our dreams. We want to show them!"
-<<<<<<< HEAD
-
-=======
->>>>>>> a69b99bedc1cdeaef78c98781670cc8edcdda36f
 
 ### Connect with me:
 
@@ -47,10 +43,6 @@
 <br />
 <br />
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a69b99bedc1cdeaef78c98781670cc8edcdda36f
 ---
 
 <img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
