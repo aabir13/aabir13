@@ -42,7 +42,10 @@
 
 <br />
 <br />
-#### Thanks for visiting :heart:
+
+---
+
+#### Thanks for visiting!
 ![VisitorCount](https://profile-counter.glitch.me/aabir13/count.svg)
 
 ---
