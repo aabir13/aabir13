@@ -1,9 +1,16 @@
-### Hi there, I'm Aabir 👋
+<h1 align="center">Hi, I'm Aabir.
+Welcome to my profile</h1>
+<p align="center">
+<a href="https://kasroudra.github.io/kasweb" target="blank"><img align="center" src="https://github.com/KasRoudra/kasweb/raw/main/assets/kas.png" alt="kaswebsite" height="100" width="100"></a></p>
 
-[![Website](https://img.shields.io/website?label=Aabir.13&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/aabir13)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aabir_13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faabir13&screen_name=aabir_13)
+<h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
+<p align="center"> 
+	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
+<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
-## I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher!
+</p>
+
+## 
 
 - 🔭 I am pursuing my B.Tech in Computer Science
 - 🌱 I’m currently expanding my shell to learn more each day
