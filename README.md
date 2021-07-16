@@ -3,9 +3,7 @@ Welcome to my profile</h1>
 
 <h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
 <p align="center"> 
-	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
-<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
-
+	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 </p>
 
 ## 
