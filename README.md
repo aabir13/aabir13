@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Aabir.
 Welcome to my profile</h1>
-<p align="center">
-<a href="https://kasroudra.github.io/kasweb" target="blank"><img align="center" src="https://github.com/KasRoudra/kasweb/raw/main/assets/kas.png" alt="kaswebsite" height="100" width="100"></a></p>
 
 <h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
 <p align="center"> 
