@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aabir.
 Welcome to my profile!</h1>
-###
+
 <h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
 <p align="center"> 
 	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=Profile%20views&color=0e75b6&style=flat" /> </p>
