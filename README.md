@@ -63,5 +63,3 @@ Welcome to my profile!</h1>
 [linkedin]: https://www.linkedin.com/in/aabir-datta-0115821b1
 [webdevplaylist]: https://www.linkedin.com/in/aabir-datta-0115821b1
 [jsplaylist]: https://www.linkedin.com/in/aabir-datta-0115821b1
-[cssplaylist]: https://www.linkedin.com/in/aabir-datta-0115821b1
-[reactplaylist]: https://www.linkedin.com/in/aabir-datta-0115821b1
