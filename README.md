@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Aabir.
+<h1 align="center">Hi, I'm Aabir. <img src="https://raw.githubusercontent.com/aabir13/aabir13/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> 
 Welcome to my profile!</h1>
 
 <h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
