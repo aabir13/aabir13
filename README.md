@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aabir. <img src="https://raw.githubusercontent.com/aabir13/aabir13/master/wave.gif" 
+<h1 align="center">Hi, I'm Aabir! <img src="https://raw.githubusercontent.com/aabir13/aabir13/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> 
