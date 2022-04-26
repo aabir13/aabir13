@@ -9,7 +9,7 @@ Welcome to my profile!</h1>
 </p>
 <p align="center"> 
 	 <a href="https://github.com/aabir13?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aabir13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="https://github.com/aabir13/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/aabir13-profile-views"/></a>
 </p>
 
