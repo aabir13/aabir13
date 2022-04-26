@@ -5,7 +5,7 @@
 Welcome to my profile!</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20Engineer;Java%20Developer;Applied%20Mathematics;AI%20and%20ML;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20Engineer;Java%20Developer;Applied%20Mathematics;AI%20and%20ML;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>&nbsp;
 </p>
 <p align="center"> 
 	<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
