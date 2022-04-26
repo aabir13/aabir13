@@ -4,7 +4,7 @@
          width="45" /> 
 Welcome to my profile!</h1>
 
-<h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
+<h3 align="center">CS Engineer || Java Developer || Applied Mathematics || AI & ML || Preacher</h3>
 <p align="center"> 
 	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=visitors&color=0e75b6&style=flat" /> </p>
 </p>
