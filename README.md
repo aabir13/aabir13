@@ -6,7 +6,7 @@ Welcome to my profile!</h1>
 
 <h3 align="center">I'm a CS Engineer || AI Enthusiast || Applied Mathematics aficionado || Web and Software Developer || Preacher</h3>
 <p align="center"> 
-	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=visited&color=0e75b6&style=flat" /> </p>
+	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=visitors&color=0e75b6&style=flat" /> [![Github](https://img.shields.io/github/followers/aabir13?label=Follow&style=social)](https://github.com/aabir13)</p>
 </p>
 
 ### 
