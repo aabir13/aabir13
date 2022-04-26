@@ -45,7 +45,7 @@ Welcome to my profile!</h1>
 
 <img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&layout=compact)](https://github.com/aabir13)
 
 ##
 <h3 align="center">Connect with me:</h3>
