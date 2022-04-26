@@ -67,10 +67,6 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact" />
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact)](https://github.com/aabir13)
-
-
 ---
 
 <h3 align="center">Connect with me</h3>
