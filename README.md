@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
-	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" /><img align="center" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue">
+	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
 </p>
 
 ---
