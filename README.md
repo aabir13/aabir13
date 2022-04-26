@@ -70,10 +70,8 @@ Welcome to my profile!</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact)](https://github.com/aabir13)
 
----
-
 ##
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/aabir-datta-0115821b1" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:dattaaabir13@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
