@@ -6,8 +6,7 @@ Welcome to my profile!</h1>
 
 <h3 align="center">CS Engineer || Java Developer || Applied Mathematics || AI & ML || Preacher</h3>
 <p align="center"> 
-	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=visitors&color=0e75b6&style=flat" /> </p>
-	<p align="center"><img src="https://img.shields.io/github/followers/aabir13.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)"></p>
+	<p align="center"> <img src="https://komarev.com/ghpvc/?username=aabir13&label=visitors&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/aabir13.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aabir13?tab=followers)"></p>
 </p>
 
 ### 
