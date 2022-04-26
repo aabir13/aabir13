@@ -65,7 +65,6 @@ Welcome to my profile!</h1>
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=aabir13&layout=compact&theme=tokyonight" />
 </p>
 
 
