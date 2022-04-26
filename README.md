@@ -32,7 +32,7 @@ Welcome to my profile!</h1>
 </span>
 <h4> Frameworks </h4>
 <span>
-	<img src="https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white">
+	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 	<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
