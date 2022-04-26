@@ -37,7 +37,6 @@ Welcome to my profile!</h1>
 	<img src="https://img.shields.io/badge/OpenCV-2C8EBB?style=for-the-badge&logo=opencv&logoColor=white">
 	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 <h4> Databases </h4>
