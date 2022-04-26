@@ -3,7 +3,7 @@
          height="45"
          width="45" /> 
 Welcome to my profile!</h1>
-
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a>
 </p>
