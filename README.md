@@ -58,8 +58,14 @@ Welcome to my profile!</h1>
 </span>
 
 ---
+## 📈 Stats
 
-<img align="left" alt="Aabir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=radical" />
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=great-gatsby&layout=compact)](https://github.com/aabir13)
 
