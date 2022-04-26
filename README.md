@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Aabir! <img src="https://raw.githubusercontent.com/aabir13/aabir13/master/wave.gif" 
+<h1 align="center">Hey, I'm Aabir! <img src="https://raw.githubusercontent.com/aabir13/aabir13/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> 
-Welcome to my profile!</h1>
+</h1>
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a>
