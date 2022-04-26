@@ -67,7 +67,7 @@ Welcome to my profile!</h1>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=great-gatsby&layout=compact)](https://github.com/aabir13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact)](https://github.com/aabir13)
 
 ##
 <h3 align="center">Connect with me:</h3>
