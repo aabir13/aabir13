@@ -69,7 +69,7 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/aabir-datta-0115821b1" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:dattaaabir13@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
