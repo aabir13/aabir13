@@ -59,7 +59,7 @@ Welcome to my profile!</h1>
 </span>
 
 ---
-## 📈 Stats
+## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 <p align="center">
 
