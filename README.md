@@ -67,7 +67,7 @@
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&hide=html,css&theme=tokyonight&layout=compact" />
 </p>
 <p align="center">
-	<img width="48%" src="https://activity-graph.herokuapp.com/graph?username=aabir13&theme=react-dark" />
+	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=aabir13&theme=react-dark" />
 </p>
 
 ---
