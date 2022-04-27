@@ -65,6 +65,7 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&hide=html,css&theme=tokyonight&layout=compact" />
+	<img width="48%" src="https://activity-graph.herokuapp.com/graph?username=aabir13&theme=dracula" />
 </p>
 
 ---
