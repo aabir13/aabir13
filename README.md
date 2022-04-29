@@ -64,7 +64,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&count_private=true&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
-	<br><br><br>
+	<br><br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&hide=html,css&theme=tokyonight&layout=compact" />
 </p>
 <p align="center">
