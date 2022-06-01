@@ -61,7 +61,7 @@
 </span>
 
 ---
-## 📊 Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;
+## 📊 Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px"> &nbsp;
 
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&count_private=true&theme=tokyonight" />
