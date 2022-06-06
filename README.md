@@ -13,7 +13,7 @@
 
 ### 
 
-- 🔭 Currently in my 3rd Year of B.Tech in Computer Science
+- 🔭 Currently in my 4th Year of B.Tech in Computer Science
 - 🌱 Expanding my shell to learn more each day
 - 👯 Looking forward to become a Software Developer integrating Mathematics for higher efficiency and precision
 - 🥅 A keen worker and loves perfection
