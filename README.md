@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;DevOps;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
 	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
 </p>
 
@@ -13,10 +13,11 @@
 
 ### 
 
-- 🔭 Currently in my 4th Year of B.Tech in Computer Science
+- 💻 Software Engineer Intern @OpenText
+- 🔭 Computer Science Engineering from VIT Bhopal University
 - 🌱 Expanding my shell to learn more each day
-- 👯 Looking forward to become a Software Developer integrating Mathematics for higher efficiency and precision
-- 🥅 A keen worker and loves perfection
+- 👯 Looking forward to integrating Applied Mathematics to Computer Science for highly efficient and meticulous systems. 
+- 🥅 A keen worker and loves perfection.
 - ⚡ "We don't want to tell our dreams. We want to show them!"
 
 ---
