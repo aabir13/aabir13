@@ -22,7 +22,7 @@
 ---
 
 ## 💻 Skills &nbsp;
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+![My Skills](https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css)
 
 ---
 ## 📊 Stats &nbsp;
