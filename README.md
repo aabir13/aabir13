@@ -26,14 +26,6 @@
 ![My_Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,mongodb,mysql,postgres,postman,html,css,tailwind)
 
 ---
-## 📊 Stats &nbsp;
-
-<p align="center">
-	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&count_private=true&theme=tokyonight" />
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&theme=tokyonight&layout=compact" />
-</p>
-
----
 
 <h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
 <p align="center">
