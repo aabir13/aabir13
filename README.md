@@ -22,7 +22,7 @@
 ---
 
 ## 💻 Skills &nbsp;
-![My Skills](https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,react,vite,nodejs,mongodb,mysql,postgres,postman,html,css,tailwind,docker,kuberneets,selenium,tensorflow,github,idea,vscode,jenkins)
 
 ---
 ## 📊 Stats &nbsp;
