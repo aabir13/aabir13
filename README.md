@@ -22,7 +22,8 @@
 ---
 
 ## 💻 Skills &nbsp;
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,react,vite,nodejs,mongodb,mysql,postgres,postman,html,css,tailwind,docker,kuberneets,selenium,tensorflow,github,idea,vscode,jenkins)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,docker,kuberneets,selenium,tensorflow,github,idea,vscode,jenkins)
+![My_Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,mongodb,mysql,postgres,postman,html,css,tailwind)
 
 ---
 ## 📊 Stats &nbsp;
